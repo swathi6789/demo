@@ -3,5 +3,53 @@
 		"name":"swathi",
 		"label":"student",
 		"email":"swathi1234@gmail.com"
-	}
+	},
+	"career":{
+		"info": "To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+
+	},
+	"education":[
+     {
+     	"degree":"B-tech(Information Technology)",
+     	"institute":"pvp siddhartha",
+     	"data":["2015-2019"],
+     	"marks":"95%"
+     },
+     {
+     	"degree":"Intermediate(M.P.C)",
+     	"institute":"Sri Chaitanya",
+     	"data":["2013-2015"],
+     	"marks":"97%"
+     },
+     {
+     	"degree":"S.S.C",
+     	"institute":"Ravindra bharathi",
+     	"data":["2014"],
+     	"marks":"95%"
+
+     }
+
+	],
+	"skills":[
+		{
+			"title":"languages",
+			"content":["c","python","java","c#","c++","R"]
+		},
+		{
+			"title":"DataBase",
+			"content":["SQL","MongoDB","MySQL"]
+		},
+		{
+			"title":"Web Technologies",
+			"content":["HTML","CSS","javaScript","PHP"]
+		},
+		{
+			"title":"Frameworks",
+			"content":["Django","CodeIgniter"]
+		}
+
+
+
+
+	]
 }

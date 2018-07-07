@@ -7,7 +7,7 @@
 	width: 30%;
 	padding: 2%;
 	border: 1px solid #ddd;
-	background-color: brown;
+	background-color: skyblue;
 	margin: 2%;
 	box-shadow: 3px 3px 3px pink;
 	border-radius: 20px;
@@ -44,7 +44,7 @@
 	border: 2px solid #ddd;
 	margin: 3%;
 	text-align: center;
-	background-color: brown;
+	background-color: skyblue;
 	box-shadow: 3px 3px 3px pink;
 	border-radius: 20px;
 }
